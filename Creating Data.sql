@@ -1,9 +1,9 @@
 --Table Creation--
-CREATE SCHEMA dannys_dinner;
+CREATE SCHEMA dannys_diner;
 
-CREATE DATABASE dannys_dinner
+CREATE DATABASE dannys_diner
 
-use dannys_dinner
+use dannys_diner
 
 CREATE TABLE sales (
   "customer_id" VARCHAR(1),
