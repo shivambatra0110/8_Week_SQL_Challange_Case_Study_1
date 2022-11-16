@@ -1,7 +1,7 @@
 --BONUS QUESTIONS--
 
---Use Database dannys_dinner
-use dannys_dinner
+--Use Database dannys_diner
+use dannys_diner
 
 -- Join All The Things--
 -- Recreate the table with: customer_id, order_date, product_name, price, member (Y/N)
