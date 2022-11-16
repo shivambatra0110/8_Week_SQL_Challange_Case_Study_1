@@ -1,5 +1,6 @@
 --CASE STUDY QUESTIONS--
---useing database dannys_dinner
+--useing database dannys_diner
+use dannys_diner
 
 --1. What is the total amount each customer spent at the restaurant?--
 SELECT
